@@ -1,0 +1,7 @@
+C:\Users\Youna\Desktop\c#\DateOFBirthCalculator\DateOFBirthCalculator\bin\Debug\DateOFBirthCalculator.exe.config
+C:\Users\Youna\Desktop\c#\DateOFBirthCalculator\DateOFBirthCalculator\bin\Debug\DateOFBirthCalculator.exe
+C:\Users\Youna\Desktop\c#\DateOFBirthCalculator\DateOFBirthCalculator\bin\Debug\DateOFBirthCalculator.pdb
+C:\Users\Youna\Desktop\c#\DateOFBirthCalculator\DateOFBirthCalculator\obj\Debug\DateOFBirthCalculator.csprojAssemblyReference.cache
+C:\Users\Youna\Desktop\c#\DateOFBirthCalculator\DateOFBirthCalculator\obj\Debug\DateOFBirthCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Youna\Desktop\c#\DateOFBirthCalculator\DateOFBirthCalculator\obj\Debug\DateOFBirthCalculator.exe
+C:\Users\Youna\Desktop\c#\DateOFBirthCalculator\DateOFBirthCalculator\obj\Debug\DateOFBirthCalculator.pdb
