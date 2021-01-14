@@ -10,7 +10,19 @@ namespace DateOFBirthCalculator
     {
         static void Main(string[] args)
         {
-            
+            try
+            {
+                
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+            finally
+            {
+                Console.Write("press any key to close... ");
+                Console.ReadKey();
+            }
         }
     }
 }
