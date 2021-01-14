@@ -12,7 +12,12 @@ namespace DateOFBirthCalculator
         {
             try
             {
-                
+                int currntYear = DateTime.Now.Year;
+                Console.Write("Enter your age : ");
+
+                int age = int.Parse(Console.ReadLine());
+
+                Console.WriteLine("Your birth year is a : " + (currntYear - age));
             }
             catch (Exception e)
             {
